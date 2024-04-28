@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Get Flat 10% off",
+    "couponCode": "FLAT10",
+    "discountValue": "10",
+    "discountType": "percentage",
+    "description": "Use code FLAT10 & get flat 10% off on every 3rd order"
+  },
+  {
+    "id": 2,
+    "title": "Get Flat ₹100 off",
+    "couponCode": "OFF100",
+    "discountValue": "100",
+    "discountType": "amount",
+    "description": "Use code OFF100 & get flat ₹100 off on every order"
+  }
+]

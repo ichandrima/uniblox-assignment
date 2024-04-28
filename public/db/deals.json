@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Women Deep Red Graphic T-shirt",
+    "price": 589,
+    "actualPrice": 799,
+    "image": "https://iili.io/JSPZxqB.jpg",
+    "description": "Deep red graphic tee for women"
+  },
+  {
+    "id": 2,
+    "title": "Women Fuchsia Comic T-shirt",
+    "price": 949,
+    "actualPrice": 1399,
+    "image": "https://iili.io/JSPZLBV.jpg",
+    "description": "Fuchsia comic tee for women"
+  },
+  {
+    "id": 3,
+    "title": "Women Green T-shirt",
+    "price": 599,
+    "actualPrice": 749,
+    "image": "https://iili.io/JSPt7a9.jpg",
+    "description": "Oversized green tee for women"
+  },
+  {
+    "id": 4,
+    "title": "Black Disney T-shirt",
+    "price": 779,
+    "actualPrice": 999,
+    "image": "https://iili.io/JSPppWb.jpg",
+    "description": "Disney print black oversized tee"
+  },
+  {
+    "id": 5,
+    "title": "Hooded Cotton T-shirt",
+    "price": 589,
+    "actualPrice": 700,
+    "image": "https://iili.io/JSi9Hjn.jpg",
+    "description": "Cotton tee with hood for casual flair"
+  },
+  {
+    "id": 6,
+    "title": "Tie And Dyed T-shirt",
+    "price": 829,
+    "actualPrice": 999,
+    "image": "https://iili.io/JSPQQJn.jpg",
+    "description": "Trendy tie-dyed tee for all"
+  }
+]

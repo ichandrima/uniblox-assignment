@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "title": "Bright Orange Solid T-shirt",
+    "price": 849,
+    "image": "https://iili.io/JSPMWN4.jpg",
+    "description": "Vibrant orange tee for bold statements"
+  },
+  {
+    "id": 2,
+    "title": "Orange Printed T-shirt",
+    "price": 559,
+    "image": "https://iili.io/JSPXBol.jpg",
+    "description": "Stylish orange tee for women"
+  },
+  {
+    "id": 3,
+    "title": "Classic White T-shirt",
+    "price": 999,
+    "image": "https://iili.io/JSPhSEB.jpg",
+    "description": "Timeless white tee with print"
+  },
+  {
+    "id": 4,
+    "title": "Cream Cotton T-shirt",
+    "price": 499,
+    "image": "https://iili.io/JSPjITb.jpg",
+    "description": "Cream cotton tee, timeless style"
+  },
+  {
+    "id": 5,
+    "title": "Graphic Printed T-shirt",
+    "price": 679,
+    "image": "https://iili.io/JSPj4P2.jpg",
+    "description": "Stylish graphic tee for any occasion"
+  },
+  {
+    "id": 6,
+    "title": "Green Pure Cotton T-shirt",
+    "price": 989,
+    "image": "https://iili.io/JSPwU5F.jpg",
+    "description": "Soft cotton tee in vibrant green"
+  },
+  {
+    "id": 7,
+    "title": "HRX Rapid-Dry T-shirt",
+    "price": 499,
+    "image": "https://iili.io/JSPNjkX.jpg",
+    "description": "HRX Rapid-Dry Tee for Active Wear"
+  },
+  {
+    "id": 8,
+    "title": "Pink Typography T-shirt",
+    "price": 923,
+    "image": "https://iili.io/JSPedSS.jpg",
+    "description": "Stylish pink cotton tee with typography print"
+  },
+  {
+    "id": 9,
+    "title": "Red & Beige Printed T-shirt",
+    "price": 1100,
+    "image": "https://iili.io/JSPeciv.jpg",
+    "description": "Stylish red & beige tee for women"
+  },
+  {
+    "id": 10,
+    "title": "Red Relaxed Fit T-shirt",
+    "price": 799,
+    "image": "https://iili.io/JSPvo8B.jpg",
+    "description": "Relaxed fit red tee for women"
+  },
+  {
+    "id": 11,
+    "title": "Ribbed T-shirt",
+    "price": 444,
+    "image": "https://iili.io/JSPS31j.jpg",
+    "description": "Ribbed tee for versatile styling"
+  },
+  {
+    "id": 12,
+    "title": "Self Design Training T-shirt",
+    "price": 799,
+    "image": "https://iili.io/JSPSb6J.jpg",
+    "description": "Self-designed tee for your workout"
+  }
+]

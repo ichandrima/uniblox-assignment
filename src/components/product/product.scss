@@ -1,0 +1,21 @@
+.product-card {
+  border: none !important;
+  .add-cart {
+    color: #bb141e;
+    font-size: .8rem;
+    font-weight: 700;
+  }
+  .cart-icon {
+    position: absolute;
+    color: #fffafa;
+    font-size: 1rem;
+    background-color: #55957e;
+    padding: .4rem;
+    border-radius: 50%;
+    top: -12px;
+    right: -10px;
+  }
+}
+.product-card:hover {
+  box-shadow: 0 2px 8px #d4d5d9;
+}

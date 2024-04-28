@@ -1,0 +1,36 @@
+.header {
+  height: 4rem;
+  width: 100%;
+  top: 0;
+  position: fixed;
+  box-sizing: border-box;
+  z-index: 999;
+  background-color: #fff;
+  box-shadow: 0 8px 25px 0 rgba(10, 10, 10, 0.1);
+  .icon {
+    font-size: 1.5rem;
+    color: #000;
+    cursor: pointer;
+  }
+}
+.logo {
+  width: 8rem;
+  height: auto;
+  cursor: pointer;
+}
+.user {
+  font-weight: 700;
+  margin-right: 1rem;
+}
+.cart-count {
+  width: 1rem;
+  height: 1rem;
+  border-radius: 50%;
+  background-color: #bb141e;
+  color: #fff;
+  text-align: center;
+  font-size: .7rem;
+  position: absolute;
+  top: -5px;
+  right: -14px;
+}

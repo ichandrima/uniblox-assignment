@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+  font-family: "Jost", sans-serif;
+}
+.full-height {
+  height: 100%;
+}
+.d-flex {
+  display: flex;
+}
+.align-center {
+  align-items: center;
+}
+.content-between {
+  justify-content: space-between;
+}
+.p-relative {
+  position: relative;
+}
+.section {
+  margin-top: 6rem;
+  position: relative;
+  &-title {
+    text-align: center;
+    font-size: 2rem;
+    font-weight: 600;
+    margin: 2rem 0;
+  }
+}
+.padding-0 {
+  padding: 0;
+}
+.padding-main {
+  padding: 0 8rem;
+}
+.padding-top-1 {
+  padding-top: 1rem;
+}
+.margin-0 {
+  margin: 0;
+}
+.margin-bottom-2 {
+  margin-bottom: 2rem;
+}
+.card {
+  &-content {
+    margin-bottom: 0 !important;
+    font-size: 1rem !important;
+  }
+  &-price {
+    margin-top: .5rem;
+    color: #767676;
+    .old-price {
+      font-size: .8rem;
+      text-decoration: line-through;
+      margin-right: .7rem;
+    }
+  }
+}
+.pointer {
+  cursor: pointer;
+}
+.color-muted {
+  color: #767676;
+}
+input:focus, button:focus {
+  outline: none;
+  box-shadow: none !important;
+}
+.center {
+  margin: 15% auto;
+  text-align: center;
+}
+@media (max-width: 600px) {
+  .padding-main {
+    padding: 0 3rem;
+  }
+}
